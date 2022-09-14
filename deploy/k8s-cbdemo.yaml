@@ -14,7 +14,7 @@ spec:
     spec:
       containers:
       - name: demo
-        image: harbor.tanzuworld.com/cbdemo/spring-http
+        image: harbor.tanzuworld.com/cbdemo/cbdemo:latest
         ports:
         - containerPort: 8080
 ---
