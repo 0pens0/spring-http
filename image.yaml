@@ -15,6 +15,6 @@ spec:
   source:
     git:
       revision: main
-      url: http://github.com/0pens0/cb_demo
+      url: http://github.com/0pens0/spring-http
   successBuildHistoryLimit: 10
-  tag: harbor.cbksworld.com/tanzu/cbdemo
+  tag: harbor.tanzuworld.com/cbdemo/spring-http
