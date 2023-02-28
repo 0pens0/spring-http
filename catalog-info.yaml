@@ -1,0 +1,10 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: spring-http
+  annotations:
+    github.com/project-slug: 0pens0/spring-http
+spec:
+  type: other
+  lifecycle: unknown
+  owner: OpensO
